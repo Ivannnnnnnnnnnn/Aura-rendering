@@ -5,4 +5,4 @@ Super simple rendering system for basic shapes and sizes made in C++ and C
 
 My first library and i will update it
 
-#Contact via telegram: @GitHubIvan
+# Contact via telegram: @GitHubIvan
